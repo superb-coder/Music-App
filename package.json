@@ -1,0 +1,34 @@
+{
+  "name": "Fuga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "browser-cookies": "^1.2.0",
+    "express": "^4.17.1",
+    "gunzip-file": "^0.1.1",
+    "knex": "^0.21.6",
+    "node-tsv-json": "^0.2.1",
+    "pg": "^8.4.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  },
+  "DEV_DB": {
+    "host": "development.crtlunrdtut5.eu-central-1.rds.amazonaws.com",
+    "user": "postgres",
+    "password": "TAU3YyPU",
+    "database": "development",
+    "connectTimeout": 90000
+  }
+}

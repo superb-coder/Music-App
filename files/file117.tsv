@@ -1,0 +1,6 @@
+label_id	product_id	asset_id	date	territory	number_of_downloads	number_of_streams	number_of_listeners	number_of_saves	reporting_organization_id	asset_duration	stream_device_type	stream_device_os	stream_length	stream_source	stream_source_uri	user_id	user_region	user_gender	user_birth_year	user_age_group	user_country	user_access_type	user_account_type	track_id	primary_artist_ids	isrc	upc	shuffle	repeat	cached	completion	apple_container_type	apple_container_sub_type	apple_source_of_stream	youtube_channel_id	video_id	youtube_claimed_status	subscribed_status	asset_type	discovery_flag
+2529726926	2561327675	2561329803	2020-10-08	IN	0	1		0	316911752	85												Ad-Supported			[2561327816]	NLRD51966211	8720205102683													
+3119324401	3119324402	3119324422	2020-10-08	IN	0	1		0	316911752	185												Ad-Supported			[2414452643]	NLRD51962114	8720205151230													
+3155827353	3155827355	3155827395	2020-10-08	IN	0	1		0	316911752	250												Ad-Supported			[3155827349]	NLRD51962100	8720205151100													
+2787791505	2787783900	2787801767	2020-10-08	IN	0	1		0	316911752	201												Ad-Supported			[2787788652]	NLRD51962444	8720205159205													
+2872154094	2872154096	2872154117	2020-10-08	IN	0	1		0	316911752	196												Ad-Supported			[2872154090]	NLRD51962040	8720205150509													
