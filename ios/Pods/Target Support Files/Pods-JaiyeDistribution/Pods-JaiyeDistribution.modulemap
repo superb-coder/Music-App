@@ -1,0 +1,6 @@
+module Pods_JaiyeDistribution {
+  umbrella header "Pods-JaiyeDistribution-umbrella.h"
+
+  export *
+  module * { export * }
+}

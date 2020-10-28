@@ -1,0 +1,758 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/79cf45dff789eeca895474686f731158/flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/321c23000290bad9c0ab87d1613c1bca/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_async-storage] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_blur] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_clipboard] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:amazon-cognito-identity-js] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-date-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fbsdk] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d93f539fdefac0fc9cbb979a3140b2aa/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/superb/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b89a7350dc74dae4e0fa472f1b0e98a6/flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6b4f7e1e5929410d7d62a074a5872193/stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/superb/.gradle/caches/transforms-2/files-2.1/839d93873628eceee59aaea4b32fde54/ucrop-2.2.5-native/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/superb/.gradle/caches/transforms-2/files-2.1/cd92d9e6aef52bc85e9346fd849ea640/jetified-blurview-1.6.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/75e6bebc4f68eb91e7c8cf037cbc7e85/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2803cc1398819dd22bfeacef461a434f/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ad8d6eeaa66d209d3ed11e4db758c439/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e782e0fb8665ee5aef358d66d27e417/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/superb/.gradle/caches/transforms-2/files-2.1/b9392bc7c03fc9419d4d169ed901ea22/transition-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/79417514517bc838ba6e5b95d85d4c80/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9f9402a4d38f66542e51f69aa98fba93/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/93f8999a4e90b1820fda4bb0331a9612/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/superb/.gradle/caches/transforms-2/files-2.1/54ecdb5c0205f86699593ef2e9aa0c39/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/dbc833f00db9f2a970fee73287492b6c/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2d8e4d994785855c2e6ab53ba16ea8f3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fb532574b956b34bc2dab12de6502519/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ed784e9cc6d9c22090eb9cb003e47107/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e858762b6a0b288523d1cae14959ad58/jetified-conscrypt-android-2.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.henninghall.android:NumberPickerView:1.1.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f9658f2a05baa371e5f933c2c1b406e6/NumberPickerView-1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/superb/.gradle/caches/transforms-2/files-2.1/15c208c20eb0fb46c14270486019b964/time4j-android-4.2-2018i/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/5ec802104e9a5482eabb6e474f03017e/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-splash-screen] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d93f539fdefac0fc9cbb979a3140b2aa/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d93f539fdefac0fc9cbb979a3140b2aa/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/superb/.gradle/caches/transforms-2/files-2.1/cd92d9e6aef52bc85e9346fd849ea640/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/superb/.gradle/caches/transforms-2/files-2.1/cd92d9e6aef52bc85e9346fd849ea640/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/75e6bebc4f68eb91e7c8cf037cbc7e85/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/75e6bebc4f68eb91e7c8cf037cbc7e85/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e858762b6a0b288523d1cae14959ad58/jetified-conscrypt-android-2.0.0/AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e858762b6a0b288523d1cae14959ad58/jetified-conscrypt-android-2.0.0/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/superb/.gradle/caches/transforms-2/files-2.1/15c208c20eb0fb46c14270486019b964/time4j-android-4.2-2018i/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/superb/.gradle/caches/transforms-2/files-2.1/15c208c20eb0fb46c14270486019b964/time4j-android-4.2-2018i/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.jaiye.artist.MainActivity
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/79cf45dff789eeca895474686f731158/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/79cf45dff789eeca895474686f731158/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/321c23000290bad9c0ab87d1613c1bca/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/321c23000290bad9c0ab87d1613c1bca/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_async-storage] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_blur] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_blur] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_clipboard] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon-cognito-identity-js] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon-cognito-identity-js] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/amazon-cognito-identity-js/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-date-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-date-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-document-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fbsdk] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d93f539fdefac0fc9cbb979a3140b2aa/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d93f539fdefac0fc9cbb979a3140b2aa/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/superb/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/superb/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b89a7350dc74dae4e0fa472f1b0e98a6/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b89a7350dc74dae4e0fa472f1b0e98a6/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6b4f7e1e5929410d7d62a074a5872193/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6b4f7e1e5929410d7d62a074a5872193/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/superb/.gradle/caches/transforms-2/files-2.1/839d93873628eceee59aaea4b32fde54/ucrop-2.2.5-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5-native] /Users/superb/.gradle/caches/transforms-2/files-2.1/839d93873628eceee59aaea4b32fde54/ucrop-2.2.5-native/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/superb/.gradle/caches/transforms-2/files-2.1/cd92d9e6aef52bc85e9346fd849ea640/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.eightbitlab:blurview:1.6.3] /Users/superb/.gradle/caches/transforms-2/files-2.1/cd92d9e6aef52bc85e9346fd849ea640/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/75e6bebc4f68eb91e7c8cf037cbc7e85/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/75e6bebc4f68eb91e7c8cf037cbc7e85/play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2803cc1398819dd22bfeacef461a434f/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2803cc1398819dd22bfeacef461a434f/jetified-play-services-auth-api-phone-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ad8d6eeaa66d209d3ed11e4db758c439/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ad8d6eeaa66d209d3ed11e4db758c439/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e782e0fb8665ee5aef358d66d27e417/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e782e0fb8665ee5aef358d66d27e417/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/superb/.gradle/caches/transforms-2/files-2.1/b9392bc7c03fc9419d4d169ed901ea22/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] /Users/superb/.gradle/caches/transforms-2/files-2.1/b9392bc7c03fc9419d4d169ed901ea22/transition-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/79417514517bc838ba6e5b95d85d4c80/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/79417514517bc838ba6e5b95d85d4c80/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9f9402a4d38f66542e51f69aa98fba93/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9f9402a4d38f66542e51f69aa98fba93/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/superb/.gradle/caches/transforms-2/files-2.1/c8db8b9b60bb02480496790d016373f1/core-1.5.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/93f8999a4e90b1820fda4bb0331a9612/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/93f8999a4e90b1820fda4bb0331a9612/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/superb/.gradle/caches/transforms-2/files-2.1/54ecdb5c0205f86699593ef2e9aa0c39/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/superb/.gradle/caches/transforms-2/files-2.1/54ecdb5c0205f86699593ef2e9aa0c39/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/dbc833f00db9f2a970fee73287492b6c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/dbc833f00db9f2a970fee73287492b6c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2d8e4d994785855c2e6ab53ba16ea8f3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/2d8e4d994785855c2e6ab53ba16ea8f3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fb532574b956b34bc2dab12de6502519/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/fb532574b956b34bc2dab12de6502519/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ed784e9cc6d9c22090eb9cb003e47107/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ed784e9cc6d9c22090eb9cb003e47107/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e858762b6a0b288523d1cae14959ad58/jetified-conscrypt-android-2.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/e858762b6a0b288523d1cae14959ad58/jetified-conscrypt-android-2.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.henninghall.android:NumberPickerView:1.1.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f9658f2a05baa371e5f933c2c1b406e6/NumberPickerView-1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.henninghall.android:NumberPickerView:1.1.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f9658f2a05baa371e5f933c2c1b406e6/NumberPickerView-1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/superb/.gradle/caches/transforms-2/files-2.1/15c208c20eb0fb46c14270486019b964/time4j-android-4.2-2018i/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.2-2018i] /Users/superb/.gradle/caches/transforms-2/files-2.1/15c208c20eb0fb46c14270486019b964/time4j-android-4.2-2018i/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/5ec802104e9a5482eabb6e474f03017e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/5ec802104e9a5482eabb6e474f03017e/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/e6478027125d6a0857468f6f0519f293/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Volumes/Data/Development/Workspaces/Youngapp/jaiye-mobile-artist/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.jaiye.artist+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:47:21-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/8efd802b4e4d80f4ed1d83815dc9633b/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/superb/.gradle/caches/transforms-2/files-2.1/7eac2add6772f5b59ac6bcd23cf1a9a7/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/superb/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/0d697d8ff55b010e03336d995bc153be/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/9e58d95330ea8e744091f7aca2881bb3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/superb/.gradle/caches/transforms-2/files-2.1/b6ea15265ef3adf4adae84debc47ee72/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:25-92

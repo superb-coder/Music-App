@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">449101929124-g57ae375n86gk074m2gq686thssqlv4d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://jayiemobile.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">449101929124</string>
+    <string name="google_api_key" translatable="false">AIzaSyAz8YwecY3Sz2QBvc6Jqo1UE2TRl3tp9f4</string>
+    <string name="google_app_id" translatable="false">1:449101929124:android:c9ef0c712a02190019a431</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAz8YwecY3Sz2QBvc6Jqo1UE2TRl3tp9f4</string>
+    <string name="google_storage_bucket" translatable="false">jayiemobile.appspot.com</string>
+    <string name="project_id" translatable="false">jayiemobile</string>
+</resources>

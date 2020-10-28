@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449101929124",
+    "firebase_url": "https://jayiemobile.firebaseio.com",
+    "project_id": "jayiemobile",
+    "storage_bucket": "jayiemobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449101929124:android:c9ef0c712a02190019a431",
+        "android_client_info": {
+          "package_name": "com.jaiye.artist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449101929124-g57ae375n86gk074m2gq686thssqlv4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8YwecY3Sz2QBvc6Jqo1UE2TRl3tp9f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449101929124-g57ae375n86gk074m2gq686thssqlv4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449101929124-tu8fuucv4pm7icek0pn9fa2e10qqst4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaiye.artist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

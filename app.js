@@ -1,89 +1,114 @@
-var express = require('express');
-var bodyParser = require('body-parser');
-var port = process.env.PORT || 8010;
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ * @flow strict-local
+ */
 
-var fugaLogin = require('./src/queries/fuga/login').login;
-var getDownloadURL = require('./src/queries/fuga/loadTrendFileURL').getDownloadURL;
-var fileDownload = require('./src/helpers/downloadFile').downloadFile;
-var loadJson = require('./src/helpers/loadJson').loadJson;
+import React from 'react';
+import {
+  SafeAreaView,
+  StyleSheet,
+  ScrollView,
+  View,
+  Text,
+  StatusBar,
+} from 'react-native';
 
-var readData = require('./src/queries/pg/queries').readData;
-var writeData = require('./src/queries/pg/queries').writeData;
+import {
+  Header,
+  LearnMoreLinks,
+  Colors,
+  DebugInstructions,
+  ReloadInstructions,
+} from 'react-native/Libraries/NewAppScreen';
 
-var app = express();
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended: false}));
-
-let cookie;
-let downloadURLs = {
-    urls: [],
-    dates: [],
-    dsps: [],
-    created_ats: [],
-    updated_ats: []
+const App: () => React$Node = () => {
+  return (
+    <>
+      <StatusBar barStyle="dark-content" />
+      <SafeAreaView>
+        <ScrollView
+          contentInsetAdjustmentBehavior="automatic"
+          style={styles.scrollView}>
+          <Header />
+          {global.HermesInternal == null ? null : (
+            <View style={styles.engine}>
+              <Text style={styles.footer}>Engine: Hermes</Text>
+            </View>
+          )}
+          <View style={styles.body}>
+            <View style={styles.sectionContainer}>
+              <Text style={styles.sectionTitle}>Step One</Text>
+              <Text style={styles.sectionDescription}>
+                Edit <Text style={styles.highlight}>App.js</Text> to change this
+                screen and then come back to see your edits.
+              </Text>
+            </View>
+            <View style={styles.sectionContainer}>
+              <Text style={styles.sectionTitle}>See Your Changes</Text>
+              <Text style={styles.sectionDescription}>
+                <ReloadInstructions />
+              </Text>
+            </View>
+            <View style={styles.sectionContainer}>
+              <Text style={styles.sectionTitle}>Debug</Text>
+              <Text style={styles.sectionDescription}>
+                <DebugInstructions />
+              </Text>
+            </View>
+            <View style={styles.sectionContainer}>
+              <Text style={styles.sectionTitle}>Learn More</Text>
+              <Text style={styles.sectionDescription}>
+                Read the docs to discover what to do next:
+              </Text>
+            </View>
+            <LearnMoreLinks />
+          </View>
+        </ScrollView>
+      </SafeAreaView>
+    </>
+  );
 };
-let count;
 
+const styles = StyleSheet.create({
+  scrollView: {
+    backgroundColor: Colors.lighter,
+  },
+  engine: {
+    position: 'absolute',
+    right: 0,
+  },
+  body: {
+    backgroundColor: Colors.white,
+  },
+  sectionContainer: {
+    marginTop: 32,
+    paddingHorizontal: 24,
+  },
+  sectionTitle: {
+    fontSize: 24,
+    fontWeight: '600',
+    color: Colors.black,
+  },
+  sectionDescription: {
+    marginTop: 8,
+    fontSize: 18,
+    fontWeight: '400',
+    color: Colors.dark,
+  },
+  highlight: {
+    fontWeight: '700',
+  },
+  footer: {
+    color: Colors.dark,
+    fontSize: 12,
+    fontWeight: '600',
+    padding: 4,
+    paddingRight: 12,
+    textAlign: 'right',
+  },
+});
 
-app.get('/pg/writeData', async function (req, res) {
-    let result = await writeData(table, data);
-    res.send(result);
-})
-
-app.get('/', async function(req, res) {
-    let result = await fugaLogin('jaiye', 'Jaiye2019!');
-    cookie = result.headers['set-cookie'][0].split(';')[0].substring(12);
-    
-    result = await getDownloadURL(cookie);
-    downloadURLs.urls = result.data.content.map(value => value.download_url);
-    downloadURLs.dates = result.data.content.map(value => value.date);
-    downloadURLs.created_ats = result.data.content.map(value => value.created_at);
-    downloadURLs.updated_ats = result.data.content.map(value => value.updated_ats);
-    downloadURLs.dsps = result.data.content.map(value => value.dsp);
-
-
-    let tsvData = [];
-
-    downloadURLs.urls.forEach((value, index) => {
-        fileDownload(value, index).then(function(resolvedData){
-            resolvedData.forEach(async (value, tsvIndex) => {
-                if(tsvIndex > 0){
-                    let data = {
-                        salesDate: downloadURLs.dates[index],
-                        store: downloadURLs.dsps[index],
-                        salesCountry: value[4],
-                        upc: value[26],
-                        isrc: value[27],
-                        salesType: value[5] > 0 ? "Download" : "Stream",
-                        quantity: value[5] > 0 ? value[5] : value[6],
-                        trackId: value[1],
-                        artistId: value[25],
-                        labelId: value[0],
-                        createdAt: downloadURLs.created_ats[index],
-                        updatedAt: downloadURLs.created_ats[index],
-                        deletedAt: null
-                    };
-
-                    await writeData('analytics', data);
-                }
-            })
-        });
-
-
-
-    });
-
-    count = downloadURLs.urls.length;
-
-})
-
-app.listen(port, function(){
-    console.log("listening port: ", port);
-})
-
-
-
-
-
-
-
+export default App;
